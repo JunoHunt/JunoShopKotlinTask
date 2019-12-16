@@ -18,7 +18,7 @@
 3. Сортировать их все в алфавитном порядке
 4. выводить в TextView в виде столбика
 
-![task1](https://github.com/JunoHunt/JunoShopKotlinTask/blob/master/examples/KotlinTashGif.gif)
+![task1](https://github.com/JunoHunt/JunoShopKotlinTask/blob/master/examples/KotlinTaskGif.gif)
 
 ## Задача 2
 ---
